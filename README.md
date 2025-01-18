@@ -1,4 +1,15 @@
-### Hi,I'm Anoupriya!!!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anoupriya!;" />
+  </a>
+</h1>
+
+<h3 align="center">A passionate software developer from Canada CA</h3>
+
+<br/>
+
 
 # 💫 About Me:
 🔭 I’m currently Studying Computer Science Engineering in Sri Manakula Vinayagar Engineering College<br>👯 I’m looking to collaborate on innovative machine learning and AI projects, particularly in areas like computer vision, natural language processing, and smart systems<br>🤝 I’m looking for help with  exploring advanced AI techniques, building real-world applications, and improving my skills in deploying scalable solutions.<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about my projects , such as gender detection using YOLOv5, women safety analytics.<br>⚡ Fun fact: I believe every problem has a computational solution waiting to be discovered! 😊
